@@ -1,0 +1,13 @@
+/**
+* 03/05/2018
+* CSC 153
+* Justin Weihl, Michael Freeman
+* Workshop Selector
+*/
+
+start
+	display options get user inputs
+	if user selects options display output
+		depending on case give different output
+	else if no user input keep blank
+stop

@@ -1,0 +1,12 @@
+Michael Freeman
+M1HW1
+
+Pseudocode
+
+Start 
+	
+Display 2 labels and three buttons
+Click buttons
+English words appear
+
+Stop

@@ -1,0 +1,10 @@
+Pseudo Code 
+2/4/18
+Ch4_G_PP12 (Group 5)
+David Howland, Gabriela Canjura, Robert Land 
+
+Start 
+	Display options on which workshop the person wants to go to and the location.
+	Generate the registration fee and lodging fee per day 
+	Display the total cost for registration + Lodging 
+Stop 

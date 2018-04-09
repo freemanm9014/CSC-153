@@ -1,0 +1,6 @@
+Start 
+ 	Label- User enter  First, Last, Middle and Title
+	FML Button –  first middle and last name 
+	FL Button –   First and Last Name
+	LF Button –  Last and First Name 
+Stop

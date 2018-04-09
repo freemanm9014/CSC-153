@@ -1,0 +1,22 @@
+/**
+* 02/12/2018
+* CSC 153
+* Group 14
+* calculates the revenue of stadium tickets
+* Gabriela worked on the code with input from Michael
+* Michael did pseudo code and flow chart 
+* Anthony was not here 
+*/
+
+
+
+
+Start
+
+	Display menu
+	Receives user input to number of tickets
+	Catches input errors
+	Process rev calculations
+	Displays rev
+	Clears 
+Stop

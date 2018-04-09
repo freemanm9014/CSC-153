@@ -1,0 +1,13 @@
+/**
+ * 3/30/2018
+ * CSC 153
+ * Alex Lopez, Michael Freeman and Robert Land
+*/
+
+
+Start
+	if user checks to see if file is open.
+		while read file and covert to integers.
+	if user enter amount.
+		else MessageBox will show.
+Stop
