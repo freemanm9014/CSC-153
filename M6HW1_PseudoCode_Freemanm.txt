@@ -1,0 +1,5 @@
+Start 
+	Enter amount of time the object took to fall 
+	Calculate button – press button for the falling distance
+	Exit Button - exits when done
+Stop
