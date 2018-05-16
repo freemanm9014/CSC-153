@@ -1,0 +1,12 @@
+Michael Freeman
+02/04/2018
+
+
+
+Start 
+
+	Diplay two pictureBoxes and three buttons
+	click buttons
+	show heads or tails will appear
+
+stop
