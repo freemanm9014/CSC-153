@@ -1,0 +1,29 @@
+/**
+* 20180428
+* CSC 153
+* Group #5 (Michel Villafan, Hillary Agbele, Michael Freeman) 
+* 
+* GUI and Source code by: Michel Villafan
+* FlowChart by: Hillary Agbele
+* Pseudo code by: Michael Freeman
+* 
+* Rock, Paper, Scissors game (using methods)
+*/
+
+
+
+Start 
+	program displays three images
+	
+	progra, displays play Again 
+ 
+	program displays: Rock, Paper,Scissors.
+	
+				USer chooses from the three and computer also chooses from the three randomly 
+	
+				if User choose > or < the computer program display result in windows 
+
+	User can the "click play" again 
+				
+
+End
